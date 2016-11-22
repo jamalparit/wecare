@@ -12,7 +12,7 @@ We Care dibangunkan dengan menggunakan MIT AppInventor. Teknologi HTML5, CSS dan
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # Lihat dan ubah suai kod sumber
-Untuk melihat dan mengubahsuai kod sumber, muat turun fail [WeCare.aia](https://github.com/naimibrahim/wecare/raw/master/WeCare.aia)  dan muat naiknya dia aplikasi MIT AppInventor http://ai2.appinventor.mit.edu/
+Untuk melihat dan mengubahsuai kod sumber, muat turun fail [WeCare.aia](https://github.com/naimibrahim/wecare/raw/master/WeCare.aia)  dan muat naiknya di aplikasi MIT AppInventor http://ai2.appinventor.mit.edu/
 
 Kod HTML, CSS dan JS yang berkaitan dengan UI boleh dimuat turun melalui fail [hackodat.zip](https://github.com/naimibrahim/wecare/blob/master/hackodat.zip) ,unzip dan hostinglah dimana yang bersesuaian.
 
